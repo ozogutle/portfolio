@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Spor Salonu Otomasyonu",
+    "desc": "Tkinter ile yapılmış bir spor salonu otomasyonu, müşteri verilerini kaydedip, diyet ve antrenman programları sunar.",
+    "image": "gym_proje",
+    "category": "otomasyon",
+    "links": {
+      "view": "",
+      "code": "https://github.com/BurakAtac/Gym-Registration-Automation"
+    }
+  },
+  {
+    "name": "Kütüphane Otomasyonu",
+    "desc": "C# Windows Forms ile yapılmış bir kütüphane otomasyonu, kullanıcıların giriş ve kayıt yapabileceği, veritabanı üzerinde işlem yapabileceği bir arayüze sahiptir.",
+    "image": "kütüphane_otomasyon",
+    "category": "kütüphane_otoamsyon",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=znlVLyA9pvY",
+      "code": "https://github.com/BurakAtac/library-registration-screen"
+    }
+  },
+  {
+    "name": "Vücüt Geliştirme Veri Tabanı",
+    "desc": "SQL kullanılarak üye, diyetler, antrenman sistemleri ve antrenörler gibi bilgileri tutabilen ilişki tabloları sayesinde kolayca sorgu yapılabilen bir veritabanı tasarımı",
+    "image": "gym_veritabanı",
+    "category": "veri",
+    "links": {
+      "view": "",
+      "code": "https://github.com/BurakAtac/bodybuilding-diet-training-trainer-and--supplement-database"
+    }
+  },
+  {
+    "name": "Java ile Oyun Geliştirme",
+    "desc": "OOP prensiplerine dayanarak geliştirilmiş bir oyun",
+    "image": "java1",
+    "category": "java",
+    "links": {
+      "view": "",
+      "code": "https://github.com/BurakAtac/Game-Whit-Java-"
+    }
+  },
+  {
+    "name": "Spor Paketleri Satın Alma Sitesi",
+    "desc": "HTML,CSS ve JavaScript kullanılarak hazırlanan web sitesi,müşterilere spor paketleri sunar",
+    "image": "site",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/BurakAtac/Bodybuilding-website"
+    }
+  }
+]
